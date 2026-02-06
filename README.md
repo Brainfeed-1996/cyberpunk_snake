@@ -1,20 +1,20 @@
-# 🐍 Cyberpunk Snake
+﻿# ðŸ Cyberpunk Snake
 
-Un jeu de Snake avec un thème Cyberpunk, des effets sonores et visuels !
+Un jeu de Snake avec un thÃ¨me Cyberpunk, des effets sonores et visuels !
 
-## 🎮 Contrôles
-- Flèches directionnelles pour diriger le serpent
-- Touches 1, 2, 3 pour changer le niveau de difficulté
-- R pour recommencer après un Game Over
+## ðŸŽ® ContrÃ´les
+- FlÃ¨ches directionnelles pour diriger le serpent
+- Touches 1, 2, 3 pour changer le niveau de difficultÃ©
+- R pour recommencer aprÃ¨s un Game Over
 
-## 🚀 Installation
+## ðŸš€ Installation
 
-1. Installez les dépendances :
+1. Installez les dÃ©pendances :
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Générez les effets sonores :
+2. GÃ©nÃ©rez les effets sonores :
 ```bash
 python generate_sound.py
 ```
@@ -24,10 +24,11 @@ python generate_sound.py
 python snake_game.py
 ```
 
-## 🎯 Fonctionnalités
-- Design Cyberpunk avec des couleurs néon
+## ðŸŽ¯ FonctionnalitÃ©s
+- Design Cyberpunk avec des couleurs nÃ©on
 - Effets de particules lors de la collecte de nourriture
 - Effets sonores
-- Système de score
-- 3 niveaux de difficulté
-- Traversée des murs
+- SystÃ¨me de score
+- 3 niveaux de difficultÃ©
+- TraversÃ©e des murs
+
